@@ -1,16 +1,22 @@
-### Hi there 👋
+[![Header](https://developers.giphy.com/branch/master/static/api-c99e353f761d318322c853c03ebcf21b.gif)]()
 
-<!--
-**Luisgarmendia/Luisgarmendia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**English**
 
-Here are some ideas to get you started:
+<center>
+  <h14>
+    <b>
+      Hi, my name is Luis Garmendia, I'm 24 year old , I study computer science engineer.
+    </b>
+  </h4>
+</center>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Español**
+
+<center>
+  <h14>
+    <b>
+      Hola, mi nombre es Luis Garmendia, tengo 24 años, estudio ingenieria enciencias de la computacion.
+    </b>
+  </h4>
+</center>
+
